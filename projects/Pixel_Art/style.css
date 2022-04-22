@@ -15,12 +15,12 @@
 #pixel-board {
     padding: 0px;
     width: 210px;
-    height: 226px;
+    height: 180px;
+    background-color: black;
   }
 
 .pixel {
-    margin-bottom: -4px;
-    padding: 0px;
+    margin-bottom: -10px;
     width: 40px;
     height: 40px;
     background-color: rgb(255, 255, 255);

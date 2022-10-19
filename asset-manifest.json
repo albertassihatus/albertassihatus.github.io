@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/github-page/static/css/main.cc7b2054.chunk.css",
+    "main.js": "/github-page/static/js/main.889ef10b.chunk.js",
+    "main.js.map": "/github-page/static/js/main.889ef10b.chunk.js.map",
+    "runtime-main.js": "/github-page/static/js/runtime-main.452e2bb8.js",
+    "runtime-main.js.map": "/github-page/static/js/runtime-main.452e2bb8.js.map",
+    "static/js/2.d962e751.chunk.js": "/github-page/static/js/2.d962e751.chunk.js",
+    "static/js/2.d962e751.chunk.js.map": "/github-page/static/js/2.d962e751.chunk.js.map",
+    "index.html": "/github-page/index.html",
+    "static/css/main.cc7b2054.chunk.css.map": "/github-page/static/css/main.cc7b2054.chunk.css.map",
+    "static/js/2.d962e751.chunk.js.LICENSE.txt": "/github-page/static/js/2.d962e751.chunk.js.LICENSE.txt",
+    "static/media/Jupiter.529cdbe0.png": "/github-page/static/media/Jupiter.529cdbe0.png",
+    "static/media/Marte.6cae79d3.png": "/github-page/static/media/Marte.6cae79d3.png",
+    "static/media/Mercurio.a7105a56.png": "/github-page/static/media/Mercurio.a7105a56.png",
+    "static/media/Netuno.48cf14b7.png": "/github-page/static/media/Netuno.48cf14b7.png",
+    "static/media/Saturno.00b7295f.png": "/github-page/static/media/Saturno.00b7295f.png",
+    "static/media/Terra.990ac782.png": "/github-page/static/media/Terra.990ac782.png",
+    "static/media/Urano.607cb33c.png": "/github-page/static/media/Urano.607cb33c.png",
+    "static/media/Venus.397fdee2.png": "/github-page/static/media/Venus.397fdee2.png",
+    "static/media/App.css": "/github-page/static/media/background.0dced38c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.452e2bb8.js",
+    "static/js/2.d962e751.chunk.js",
+    "static/css/main.cc7b2054.chunk.css",
+    "static/js/main.889ef10b.chunk.js"
+  ]
+}

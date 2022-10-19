@@ -1,0 +1,96 @@
+body {
+  background-image: url('./images/background.png');
+  color: white;
+}
+
+header {
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 1px 1px 40px rgb(255, 8, 8);
+}
+
+.title {
+  align-items: center;
+  background-size: 200% 200%;
+  border: 2px solid;
+  border-radius: 50px 20px;
+  display: flex;
+  height: 10vh;
+  justify-content: center;
+  margin: auto;
+  opacity: 0.93;
+  width: 20%;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.solarplanets {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100vw;
+}
+
+.planetcard {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.planet-name {
+  font-size: 22px;
+}
+
+img {
+  height: 120%;
+  object-fit: fill;
+  width: 120%;
+}
+
+p {
+  color: white;
+}
+
+.missionDiv {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  height: 100%;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+}
+
+.missionCard {
+  align-items: center;
+  background-image: 
+  linear-gradient(135deg, #667eea 0%, #66dbea 25%, #9f66ea 50%, #764ba2 100%);
+  background-size: 600% 600%;
+  border-radius: 10px;
+  display: flex;
+  flex: 200px;
+  flex-direction: column;
+  height: 200px;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 15px;
+  text-align: center;
+  width: 150px;
+}
+
+.missionName {
+  border: solid 1px black;
+  border-radius: 20px 50px;
+  font-size: 18px;
+  margin: auto;
+  padding: 5px;
+  width: 200px;
+}
